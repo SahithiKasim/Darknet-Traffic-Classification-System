@@ -1,4 +1,4 @@
-# Darknet-Traffic-Classification-Using-Machine-Learning-Techniques
+# Darknet-Traffic-Classification-System
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
